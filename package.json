@@ -1,0 +1,46 @@
+{
+  "name": "dark-sand-color-theme",
+  "displayName": "Dark Sand Color Theme",
+  "description": "A calming vscode color theme based on the colors of sand",
+  "version": "0.0.1",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "sand",
+    "dune",
+    "desert",
+    "tan",
+    "brown",
+    "calming",
+    "calm",
+    "relaxing",
+    "relax",
+    "saturated",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark-sand-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-sand-theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/dark-sand-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
