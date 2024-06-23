@@ -4,9 +4,9 @@
 
 A calming vscode color theme based on the colors of sand.
 
-![sand](https://drive.google.com/uc?export=view&id=1oZ8jOwocJhxL6v47jZUtr5boCKUiqq3m)
+![sand](https://imgur.com/WhGdcGM.png)
 
-![theme preview](https://drive.google.com/uc?export=view&id=12GfIuLZz91DDGEan_2QgWQvqZSE0hw1R)
+![theme preview](https://imgur.com/qjvECbH.png)
 
 </div>
 
