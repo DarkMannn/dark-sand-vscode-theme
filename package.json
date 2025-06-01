@@ -2,7 +2,7 @@
   "name": "dark-sand-color-theme",
   "displayName": "Dark Sand Color Theme",
   "description": "A calming vscode color theme based on the colors of sand",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "DarkMannn",
   "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
   "engines": {
@@ -34,7 +34,7 @@
       }
     ]
   },
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "repository": {
     "url": "https://github.com/DarkMannn/dark-sand-vscode-theme",
     "type": "git"
